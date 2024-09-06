@@ -83,6 +83,9 @@ h1 {
     color:var(--vb-yellow);
     opacity: 0.65;
     text-transform: uppercase;
+    line-height: normal;
+    padding-top: 0.35rem;
+    padding-bottom: 0.35rem;
     transform: translateY(-50%);
 }
 
